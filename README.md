@@ -133,7 +133,7 @@ Project is:  _in progress_
 ## Room for Improvement
 Some areas of improvement include:
 
-- Making the app responive. Currently it is not responsive and is not mobile friendly.
+- Making the app responsive. Currently it is not responsive and is not mobile friendly.
 - Making the app more accessible. The color contrasts do not make the app accessible
 to everyone.
 
